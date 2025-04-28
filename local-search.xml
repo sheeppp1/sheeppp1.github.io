@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2025/04/28/Markdown%E8%AF%AD%E6%B3%95.md/Markdown%E8%AF%AD%E6%B3%95/"/>
+    <url>/2025/04/28/Markdown%E8%AF%AD%E6%B3%95.md/Markdown%E8%AF%AD%E6%B3%95/</url>
+    
+    <content type="html"><![CDATA[<hr><h2 id="title-Markdown语法layout-home"><a href="#title-Markdown语法layout-home" class="headerlink" title="title :Markdown语法layout:home"></a>title :Markdown语法<br>layout:home</h2><h1 id="Markdown语法"><a href="#Markdown语法" class="headerlink" title="Markdown语法"></a>Markdown语法</h1><h1 id=""><a href="#" class="headerlink" title=""></a></h1><p><img src="/assets/image-20250309210705-ld09aqd.png" alt="image"></p><h2 id="-1"><a href="#-1" class="headerlink" title=""></a></h2><p><img src="/assets/image-20250309210801-6nbdqau.png" alt="image"></p><p><strong>ctrl + B 加粗</strong></p><p><em>ctrl + i 斜体</em></p><p><img src="/assets/image-20250309211641-laaexmv.png" alt="image">三个-或者*建立分割线</p><p>下划线的使用和html中类似，在需要添加下划线的文字首尾添加<code>&lt;u&gt;文本&lt;/u&gt;</code>​</p><h1 id="-2"><a href="#-2" class="headerlink" title=""></a></h1><p><img src="/assets/image-20250310143010-14t4gwo.png" alt="image"></p><p>两个&#96;之间输入文字，当第二个被输入就会自动形成灰色框</p><p>‍</p><p><strong>1. 行内代码：（思源笔记可以用ctrl + G）</strong></p><ul><li>使用反引号（`）将代码包围起来。</li></ul><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs text">这是一个行内代码示例：`print(&quot;Hello, Markdown&quot;)`<br></code></pre></td></tr></table></figure><p><img src="https://picx.zhimg.com/v2-8897832ef61219a82bc5f3eebf79494f_r.jpg"></p><p><strong>2. 块级代码：</strong></p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs text">```<br><br>def hello():  <br>print(&quot;Hello, Markdown&quot;)<br><br></code></pre></td></tr></table></figure><figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs less"><br>!<span class="hljs-selector-attr">[]</span>(<span class="hljs-attribute">https</span>:<span class="hljs-comment">//picx.zhimg.com/v2-4ae9f134bd8ed85b8742e0c9d3e6f58d_1440w.jpg)</span><br><br>* 指定语言：在开头的三个反引号后指定语言，可以启用代码高亮。<br><br><span class="hljs-built_in">``</span><span class="hljs-built_in">`text</span><br><span class="hljs-built_in">‍`</span><span class="hljs-built_in">``</span>python<br>def <span class="hljs-built_in">hello</span>():<br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello, Markdown&quot;</span>)<br></code></pre></td></tr></table></figure><p><img src="https://pic1.zhimg.com/v2-cf94b9830d044c66c97d1039735fd020_r.jpg"></p><p><strong>高级用法：</strong></p><ul><li>长代码块：对于多行代码，使用三个反引号来创建一个代码块是更好的选择。</li><li><a href="https://zhida.zhihu.com/search?content_id=237514233&content_type=Article&match_order=1&q=%E8%AF%AD%E6%B3%95%E9%AB%98%E4%BA%AE&zhida_source=entity">语法高亮</a>：通过指定代码的编程语言，可以在支持的Markdown渲染器中启用语法高亮。</li></ul><p>‍</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>标题</title>
     <link href="/2025/04/28/README/"/>
     <url>/2025/04/28/README/</url>
